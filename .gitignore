@@ -5,3 +5,10 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+Simulated_data
+chem
+manuscripts
+plots
+results
+simulations
